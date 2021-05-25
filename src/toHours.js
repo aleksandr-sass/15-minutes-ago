@@ -1,0 +1,1 @@
+module.exports=(value)=>Math.floor(value/100);

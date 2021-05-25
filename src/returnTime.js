@@ -1,0 +1,1 @@
+module.exports=(hours,minutes)=>hours*100+minutes;
